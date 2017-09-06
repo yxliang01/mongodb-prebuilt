@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/winfinit/mongodb-prebuilt.git"
+    "url": "git+https://github.com/yxliang01/mongodb-prebuilt.git"
   },
   "keywords": [
     "mongodb",
@@ -44,7 +44,7 @@
     "url": "https://github.com/winfinit/mongodb-prebuilt/issues"
   },
   "dependencies": {
-    "mongodb-download": "git+https://github.com/winfinit/mongodb-download.git",
+    "mongodb-download": "git+https://github.com/yxliang01/mongodb-download.git",
     "debug": "^2.2.0",
     "yargs": "^3.26.0",
     "glob": "^7.1.1",
